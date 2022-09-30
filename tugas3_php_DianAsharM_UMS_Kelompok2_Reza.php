@@ -24,7 +24,7 @@
     $titles = ["No", "NIM", "Nama", "Nilai", "Keterangan", "Grade", "Predikat"];
     ?>
     <div class="container">
-        <h1 class="text-center mt-4 mb-4">Data Nilai</h1>
+        <h1 class="text-center mt-4 mb-4">Data Nilai Mahasiswa</h1>
         <table class="table table-bordered table-striped table-warning">
             <thead>
                 <tr>
